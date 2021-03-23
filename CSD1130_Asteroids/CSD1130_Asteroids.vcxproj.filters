@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Src\Collision.cpp" />
+    <ClCompile Include="Src\GameStateMgr.cpp" />
+    <ClCompile Include="Src\GameState_Asteroids.cpp" />
+    <ClCompile Include="Src\Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Include\Collision.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\GameState_Asteroids.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\GameStateList.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\GameStateMgr.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Main.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{85c789f5-da15-4f33-b76e-8b589bbaf71a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

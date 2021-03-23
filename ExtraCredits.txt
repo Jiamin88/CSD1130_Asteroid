@@ -1,0 +1,4 @@
+Extra Credits
+1. Scoring Sytem
+2. Add textures 
+3. Gameover selection (Enter key to restart and Esc to quit);
